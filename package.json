@@ -1,0 +1,22 @@
+{
+  "name": "faroshgah",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhailogee/faroshgah.git"
+  },
+  "keywords": [
+    "store"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhailogee/faroshgah/issues"
+  },
+  "homepage": "https://github.com/bhailogee/faroshgah#readme"
+}
