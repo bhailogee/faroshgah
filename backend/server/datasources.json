@@ -3,7 +3,7 @@
     "name": "db",
     "connector": "memory"
   },
-  "mysql": {
+  "dsMysql": {
     "host": "35.190.137.214",
     "port": 3306,
     "url": "",

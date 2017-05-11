@@ -2,7 +2,8 @@
 
 var loopback = require('loopback');
 var boot = require('loopback-boot');
-
+var rootRequire = require("root-require");
+global.rootRequire=rootRequire;
 var app = module.exports = loopback();
 
 app.start = function() {

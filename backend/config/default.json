@@ -1,0 +1,8 @@
+{
+  "datasources": {
+    "discovery": false,
+    "db": [
+      "dsMysql"
+    ]
+  }
+}

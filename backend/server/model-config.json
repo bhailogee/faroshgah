@@ -14,29 +14,29 @@
     ]
   },
   "User": {
-    "dataSource": "mysql"
+    "dataSource": "dsMysql"
   },
   "AccessToken": {
-    "dataSource": "mysql",
+    "dataSource": "dsMysql",
     "public": false
   },
   "ACL": {
-    "dataSource": "mysql",
+    "dataSource": "dsMysql",
     "public": false
   },
   "RoleMapping": {
-    "dataSource": "mysql",
+    "dataSource": "dsMysql",
     "public": false,
     "options": {
       "strictObjectIDCoercion": true
     }
   },
   "Role": {
-    "dataSource": "mysql",
+    "dataSource": "dsMysql",
     "public": false
   },
   "store": {
-    "dataSource": "mysql",
+    "dataSource": "dsMysql",
     "public": true
   }
 }
