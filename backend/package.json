@@ -23,7 +23,8 @@
     "strong-error-handler": "^2.0.0",
     "config": "^1.26.0",
     "root-require": "*",
-    "bluebird": "*"
+    "bluebird": "*",
+    "underscore": "*"
   },
   "devDependencies": {
     "eslint": "^3.17.1",

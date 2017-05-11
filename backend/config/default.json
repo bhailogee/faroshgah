@@ -1,8 +1,7 @@
 {
   "datasources": {
-    "discovery": false,
-    "db": [
-      "dsMysql"
-    ]
+    "discovery": true,
+    "ds": "dsMysql",
+    "db": "faroshgah"
   }
 }
